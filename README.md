@@ -1,4 +1,4 @@
-Author: Hang'rui Bi (hangruibi@outlook.com)
+Author: Hang'rui Bi (hangruibi@outlook.com) and Zheng Cheng (chengz@bjaisi.com)
 
 Thie repository provides high-level neural network layers for constructing SOTA E3-equivariant neural networks based on [e3nn](https://e3nn.org/).
 It also provides examples for several applications, such as potential energy surface modeling, dipole prediction, hamiltonian prediction, as well as [score-based](https://yang-song.github.io/blog/2021/score/) conformation generation.
