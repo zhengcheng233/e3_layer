@@ -3,9 +3,6 @@ Author: Hang'rui Bi (hangruibi@outlook.com) and Zheng Cheng (chengz@bjaisi.com)
 Thie repository provides high-level neural network layers for constructing SOTA E3-equivariant neural networks based on [e3nn](https://e3nn.org/).
 It also provides examples for several applications, such as potential energy surface modeling, dipole prediction, hamiltonian prediction, as well as [score-based](https://yang-song.github.io/blog/2021/score/) conformation generation.
 Some codes are modified from [Nequip](https://github.com/mir-group/nequip).
-The notebook for infer matrix transformation from data is modified from scripts written by Mario Geiger.
-The scripts related to score based generative modeling are modified from [score-based generative modeling through SDE](https://github.com/yang-song/score_sde_pytorch).
-The codes dealing with torsion angles are based on [torional diffusion](https://github.com/gcorso/torsional-diffusion) and [pnerf](https://github.com/aqlaboratory/pnerf).
 
 # Installation
 Once the environment is prepared, you can run this repository. There is no need to install this repository itself.
